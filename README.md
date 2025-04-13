@@ -7,9 +7,9 @@ Olá, tudo bem? 😊  Meu nome é Celso, e esse é meu perfil!
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso1404&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
-- 🏢 São Leopoldo - RS
-- 📚 Tecnologias: JAVA//Python
-- 💰 Atualmente sou estagiário na empresa SAIPOS
+- Support Analyst - SAIPOS
+- computer Science - Unisinos
+- São Leopoldo - RS
 
 <div style="display: inline_block">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
